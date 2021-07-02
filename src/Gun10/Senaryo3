@@ -1,0 +1,10 @@
+Senaryo
+1- https://www.saucedemo.com/ sitesini açınız.
+2- login işlemini yapınız (login işlemi ayrı bir static metodda olsun ordan çağırınız)
+3- Açılan sayfadaki bütün ürünleri sepete ekleyiniz.
+4- Sepete tıklayınız
+5- Sepette listelenen bütün ürünleri REMOVE yapınız.
+6- Sağ üst taraftaki sepet imajındaki ürün sayısını gösteren yerin boş olduğunu
+   Assert ile kontrol ediniz.
+
+    Sadece XPath kullanınız.

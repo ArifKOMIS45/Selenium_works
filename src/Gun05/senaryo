@@ -1,0 +1,13 @@
+Test Senaryo
+1- http://www.practiceselenium.com git
+2- Check Out a tıklat
+3- email e bilgi gir
+4- name bilgi gir
+5- addres e bilgi gir
+6- Place Order butonuna tıklat.
+7- Açılan sayfaya geldiği assert
+   kontrol et.(yeni sayfada Menu yazısı
+   var mı?)
+
+8- Url yi de kontrol ediniz.
+   http://www.practiceselenium.com/menu.html

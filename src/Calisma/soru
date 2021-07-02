@@ -1,0 +1,9 @@
+###Soru###
+Bir string ve positif sayı verildiğini düşünün(n). Eğer verilen string in uzunluğu 3 ten fazla
+ ise ilk 3 harfi, değilse verilen verildiği harfler kadar n kopyasını return yapan bir method yazın;
+
+method(“Chocolate", 2) → "ChoCho"
+method("Chocolate", 3) → "ChoChoCho"
+method("Abc", 3) → "AbcAbcAbc"
+
+cevapları özelden gönderebilirseniz daha iyi olur

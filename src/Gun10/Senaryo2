@@ -1,0 +1,9 @@
+Senaryo
+1- https://www.saucedemo.com/ sitesini açınız.
+2- Ekranda görünen usernamleri bir string diziye atınız.
+3- Bu username ve passwordlarını hepsinin login olup olamadığını
+   login olduktan sonraki sayfada Products kelimesinin kontrol ederek
+   doğrulayınız.
+   diğer login kontrolleri için navigate.back kullanınız.
+4- Login olamayan userları ve hata bilgisini yazdırınız.
+ Sadece XPath kullanınız.

@@ -1,0 +1,10 @@
+Senaryo:
+1- https://www.saucedemo.com/ sitesine gidiniz.
+2- Login olunuz.
+3- Bütün ürünlerin isimlerini bir yerde tutunuz.
+4- Bütün ürünleri sepete atınız.
+5- Sepete tıklayınız.
+6- Sepetteki ürünlerle , ilk başta aldığını ürünlerin listesi
+   birebir aynı olup olmadığını kontrol ediniz.
+
+   Sadece XPath kullanınız.
